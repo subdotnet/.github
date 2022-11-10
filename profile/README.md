@@ -9,3 +9,5 @@ Subdotnet-cli helps during the development process. is a wrapper around avalanch
 When running the cli, you will be able to configure metamask with this url http://127.0.0.1:9650/ext/bc/subnetalias.
 
 _I started this project with almost zero blockchain knowledge. A complete rewrite will be done in the next few weeks and some repos might be deleted._
+
+[![Demo](https://i.ytimg.com/an_webp/_apEEeuivsM/mqdefault_6s.webp?du=3000&sqp=CJGGtZsG&rs=AOn4CLB4wcRtbeYnjh8DtwbVs1th5qlUHg)](https://www.youtube.com/watch?v=_apEEeuivsM "Subdotnet demo - Click to Watch!")
