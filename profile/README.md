@@ -10,4 +10,4 @@ When running the cli, you will be able to configure metamask with this url http:
 
 _I started this project with almost zero blockchain knowledge. A complete rewrite will be done in the next few weeks and some repos might be deleted._
 
-[![Demo](https://i.ytimg.com/an_webp/_apEEeuivsM/mqdefault_6s.webp?du=3000&sqp=CJGGtZsG&rs=AOn4CLB4wcRtbeYnjh8DtwbVs1th5qlUHg)](https://www.youtube.com/watch?v=_apEEeuivsM "Subdotnet demo - Click to Watch!")
+[![Demo](https://user-images.githubusercontent.com/1549198/201880624-55b7bd3f-46cc-40d8-8466-156e993b26a2.png)](https://www.youtube.com/watch?v=_apEEeuivsM "Subdotnet demo - Click to Watch!")
